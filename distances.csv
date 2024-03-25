@@ -1,0 +1,91 @@
+,start,end,distance
+0,Dwayne Johnson,Sofia Vergara,2.0
+1,Dwayne Johnson,Akshay Kumar,2.0
+2,Dwayne Johnson,Adam Sandler,2.0
+3,Dwayne Johnson,Bradley Cooper,2.0
+4,Dwayne Johnson,Chris Evans,1.0
+5,Dwayne Johnson,Chris Hemsworth,2.0
+6,Dwayne Johnson,Robert Downey Jr.,2.0
+7,Dwayne Johnson,Jackie Chan,2.0
+8,Dwayne Johnson,Scarlett Johansson,2.0
+9,Chris Hemsworth,Robert Downey Jr.,2.0
+10,Chris Hemsworth,Bradley Cooper,2.0
+11,Robert Downey Jr.,Dwayne Johnson,2.0
+12,Robert Downey Jr.,Chris Hemsworth,1.0
+13,Chris Hemsworth,Scarlett Johansson,2.0
+14,Robert Downey Jr.,Jackie Chan,2.0
+15,Robert Downey Jr.,Bradley Cooper,1.0
+16,Robert Downey Jr.,Adam Sandler,2.0
+17,Robert Downey Jr.,Scarlett Johansson,1.0
+18,Chris Hemsworth,Chris Evans,2.0
+19,Robert Downey Jr.,Chris Evans,1.0
+20,Akshay Kumar,Dwayne Johnson,inf
+21,Akshay Kumar,Chris Hemsworth,inf
+22,Akshay Kumar,Robert Downey Jr.,inf
+23,Akshay Kumar,Jackie Chan,inf
+24,Akshay Kumar,Bradley Cooper,inf
+25,Akshay Kumar,Adam Sandler,inf
+26,Akshay Kumar,Scarlett Johansson,inf
+27,Akshay Kumar,Sofia Vergara,inf
+28,Akshay Kumar,Chris Evans,inf
+29,Chris Hemsworth,Jackie Chan,2.0
+30,Jackie Chan,Dwayne Johnson,3.0
+31,Jackie Chan,Chris Hemsworth,3.0
+32,Chris Hemsworth,Dwayne Johnson,3.0
+33,Jackie Chan,Bradley Cooper,3.0
+34,Jackie Chan,Robert Downey Jr.,3.0
+35,Jackie Chan,Scarlett Johansson,3.0
+36,Jackie Chan,Adam Sandler,inf
+37,Jackie Chan,Chris Evans,2.0
+38,Bradley Cooper,Dwayne Johnson,2.0
+39,Bradley Cooper,Chris Hemsworth,1.0
+40,Jackie Chan,Akshay Kumar,inf
+41,Jackie Chan,Sofia Vergara,inf
+42,Bradley Cooper,Robert Downey Jr.,2.0
+43,Robert Downey Jr.,Sofia Vergara,3.0
+44,Bradley Cooper,Scarlett Johansson,2.0
+45,Bradley Cooper,Sofia Vergara,2.0
+46,Bradley Cooper,Chris Evans,2.0
+47,Adam Sandler,Dwayne Johnson,2.0
+48,Bradley Cooper,Jackie Chan,3.0
+49,Adam Sandler,Robert Downey Jr.,3.0
+50,Chris Hemsworth,Akshay Kumar,3.0
+51,Chris Hemsworth,Adam Sandler,inf
+52,Chris Hemsworth,Sofia Vergara,inf
+53,Adam Sandler,Chris Hemsworth,3.0
+54,Adam Sandler,Bradley Cooper,2.0
+55,Adam Sandler,Scarlett Johansson,2.0
+56,Bradley Cooper,Adam Sandler,3.0
+57,Scarlett Johansson,Dwayne Johnson,3.0
+58,Scarlett Johansson,Robert Downey Jr.,2.0
+59,Adam Sandler,Chris Evans,3.0
+60,Scarlett Johansson,Jackie Chan,3.0
+61,Adam Sandler,Jackie Chan,3.0
+62,Scarlett Johansson,Adam Sandler,3.0
+63,Scarlett Johansson,Chris Hemsworth,3.0
+64,Scarlett Johansson,Chris Evans,3.0
+65,Sofia Vergara,Dwayne Johnson,3.0
+66,Sofia Vergara,Chris Hemsworth,3.0
+67,Bradley Cooper,Akshay Kumar,3.0
+68,Scarlett Johansson,Sofia Vergara,3.0
+69,Sofia Vergara,Jackie Chan,2.0
+70,Sofia Vergara,Bradley Cooper,3.0
+71,Scarlett Johansson,Bradley Cooper,3.0
+72,Sofia Vergara,Scarlett Johansson,3.0
+73,Sofia Vergara,Chris Evans,3.0
+74,Chris Evans,Dwayne Johnson,1.0
+75,Sofia Vergara,Robert Downey Jr.,3.0
+76,Chris Evans,Chris Hemsworth,2.0
+77,Chris Evans,Robert Downey Jr.,2.0
+78,Sofia Vergara,Adam Sandler,3.0
+79,Adam Sandler,Sofia Vergara,3.0
+80,Chris Evans,Bradley Cooper,2.0
+81,Chris Evans,Scarlett Johansson,2.0
+82,Chris Evans,Adam Sandler,2.0
+83,Chris Evans,Jackie Chan,3.0
+84,Adam Sandler,Akshay Kumar,3.0
+85,Sofia Vergara,Akshay Kumar,inf
+86,Chris Evans,Sofia Vergara,3.0
+87,Scarlett Johansson,Akshay Kumar,inf
+88,Robert Downey Jr.,Akshay Kumar,3.0
+89,Chris Evans,Akshay Kumar,3.0
